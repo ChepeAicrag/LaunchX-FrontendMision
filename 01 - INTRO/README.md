@@ -15,8 +15,8 @@ Descripción:
 - La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 - **Practicas**
-	- [Toma de requerimientos](./1.-Requerimientos.md)
-    - [Crea tu buyer persona](./2.-BuyerPersona.md)
+	- [Toma de requerimientos](./01-Requisitos.md)
+    - [Crea tu buyer persona](./02)
 	- [Publico objetivo](./3.-PublicoObjetivo.md)
 	- [Crea tu primer Wireframe UX](./4.-Wireframe.md)
 	- [Ahora el UI](./5.-UI.md)
