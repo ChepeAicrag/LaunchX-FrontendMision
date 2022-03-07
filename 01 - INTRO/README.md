@@ -18,7 +18,7 @@ Descripción:
 	- [Toma de requerimientos](./01-Requisitos.md)
     - [Crea tu buyer persona](./02-BuyerPersona.md)
 	- [Publico objetivo](./03-PublicoObjetivo.md)
-	- [Crea tu primer Wireframe UX](./4.-Wireframe.md)
+	- [Crea tu primer Wireframe UX](./04-WireFrame.md)
 	- [Ahora el UI](./5.-UI.md)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
